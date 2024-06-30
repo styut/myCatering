@@ -1,0 +1,6 @@
+[submodule "myCatring_front"]
+	path = myCatring_front
+	url = https://github.com/styut/PleasuresKaitring.git
+[submodule "myCatring_backend"]
+	path = myCatring_backend
+	url = https://github.com/styut/nodePleasures.git
